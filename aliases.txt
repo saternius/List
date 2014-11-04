@@ -1,0 +1,1 @@
+alias add="cd ~/Desktop/Github/List/ && ./add"
